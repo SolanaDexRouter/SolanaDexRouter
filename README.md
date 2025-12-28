@@ -1,5 +1,4 @@
-# DEX Router Solana V1
-
+# Solana Dex Router
 [![Anchor Version](https://img.shields.io/badge/Anchor-0.31.1-blue.svg)](https://www.anchor-lang.com/)
 [![Solana Version](https://img.shields.io/badge/Solana-2.1.21-purple.svg)](https://solana.com/)
 
